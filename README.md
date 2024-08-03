@@ -35,7 +35,8 @@ Hier ist eine Übersicht über die verschiedenen Ethereum-Token-Standards:
 # Checkliste: Blockchain-Entwickler werden
 
 ## Grundlagen und Vorbereitung
-- [ ] **Programmieren lernen**: Python, JavaScript, C++
+- [ ] **Programmieren lernen**: Python, JavaScript, C++ 
+      https://www.tutorialspoint.com/python/python_quick_guide.htm
 - [ ] **Grundlagen der Blockchain-Technologie verstehen**
 
 ## Smart Contracts und erste Projekte
