@@ -1,5 +1,7 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
+// Compatible with OpenZeppelin Contracts ^5.0.0
+
+pragma solidity ^0.8.26;
 
 import "https://github.com/exo-digital-labs/ERC721R/blob/main/contracts/ERC721A.sol";
 import "https://github.com/exo-digital-labs/ERC721R/blob/main/contracts/IERC721R.sol";
