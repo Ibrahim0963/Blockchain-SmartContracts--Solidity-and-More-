@@ -1,4 +1,4 @@
-# Blockchain-SmartContracts--Solidity-and-More-
+# Blockchain-SmartContracts-Solidity-And-More
 Blockchain-SmartContracts-(Solidity and More!)
 
 # Grundlagen der Blockchain-Technologie
